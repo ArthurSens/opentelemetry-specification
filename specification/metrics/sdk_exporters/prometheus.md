@@ -149,7 +149,7 @@ If the Prometheus exporter supports such configuration it MUST be named to somet
 
 ### Scope Info
 
-**Status**: [Development](../../document-status.md)
+**Status**: [Stable](../../document-status.md)
 
 A Prometheus Exporter MAY support a configuration option to produce metrics without [scope labels](../../compatibility/prometheus_and_openmetrics.md#instrumentation-scope-1).
 The option MAY be named `without_scope_info`, and MUST be `false` by default.
