@@ -18,6 +18,8 @@ release.
     ([#5024](https://github.com/open-telemetry/opentelemetry-specification/issues/5024))
   - Stabilize port configuration.
     ([#4985](https://github.com/open-telemetry/opentelemetry-specification/issues/4985))
+  - Stabilize scope info configuration.
+    ([#5056](https://github.com/open-telemetry/opentelemetry-specification/pull/5056))
 
 ### Logs
 
